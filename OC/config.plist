@@ -463,7 +463,26 @@
 			<integer>0</integer>
 		</dict>
 		<key>Entries</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Auxiliary</key>
+				<false/>
+				<key>Comment</key>
+				<string>ubuntu</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Flavour</key>
+				<string>auto</string>
+				<key>Name</key>
+				<string>ubuntu</string>
+				<key>Path</key>
+				<string>PciRoot(0x0)/Pci(0x1F,0x2)/Sata(0x0,0xFFFF,0x0)/HD(1,GPT,A3E67E4D-B7B7-4EEB-8131-BA5D1406515C,0x800,0x96000)/\EFI\ubuntu\grubx64.efi</string>
+				<key>TextMode</key>
+				<false/>
+			</dict>
+		</array>
 		<key>Security</key>
 		<dict>
 			<key>AllowNvramReset</key>
@@ -617,9 +636,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25439104GUG36DAD</string>
+			<string></string>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -629,9 +648,9 @@
 			<key>SystemProductName</key>
 			<string>iMac14,4</string>
 			<key>SystemSerialNumber</key>
-			<string>D25NG2ZTFY0T</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>F2C7269A-E2F0-4011-A72E-4230B189851C</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
